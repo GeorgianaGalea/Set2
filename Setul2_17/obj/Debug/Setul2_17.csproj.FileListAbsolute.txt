@@ -1,0 +1,7 @@
+D:\info an 1\c#learning\Setul 2\Setul2_17\bin\Debug\Setul2_17.exe.config
+D:\info an 1\c#learning\Setul 2\Setul2_17\bin\Debug\Setul2_17.exe
+D:\info an 1\c#learning\Setul 2\Setul2_17\bin\Debug\Setul2_17.pdb
+D:\info an 1\c#learning\Setul 2\Setul2_17\obj\Debug\Setul2_17.csproj.AssemblyReference.cache
+D:\info an 1\c#learning\Setul 2\Setul2_17\obj\Debug\Setul2_17.csproj.CoreCompileInputs.cache
+D:\info an 1\c#learning\Setul 2\Setul2_17\obj\Debug\Setul2_17.exe
+D:\info an 1\c#learning\Setul 2\Setul2_17\obj\Debug\Setul2_17.pdb
